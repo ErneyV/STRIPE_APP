@@ -29,7 +29,10 @@ dependencies:
   cupertino_icons: ^1.0.0
   font_awesome_flutter: ^8.11.0
   flutter_bloc: ^6.1.1
+  bloc: ^6.1.1
   flutter_credit_card: ^0.1.4
+  dio: ^3.0.10
+  stripe_payment: ^1.0.10
 
 dev_dependencies:
   flutter_test:
